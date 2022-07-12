@@ -1,0 +1,560 @@
+{
+  "reactionRolleMessage": {
+    "msg": "979441955014578306",
+    "channel": "973318598779093072"
+  },
+  "snipeFeed": {
+    "guild": "973296990551162890",
+    "973296990551162890": "973320936860311562"
+  },
+  "admins": [
+    "390524439898619907",
+    "973290949985832970",
+    "344073544457781250",
+    "940670026837557389",
+    "873900158016946257"
+  ],
+  "auctions": [
+    {
+      "special": [
+        "\\Partei\\ is the german word for Political party",
+        "Second Name",
+        "MFA",
+        "lost TID",
+        "OGE",
+        "NameMC Emerald 1 Month",
+        "Optifine Cape",
+        "Gomme Banned"
+      ],
+      "min": 5.0,
+      "role": "973337577476210740",
+      "bin": 37.0,
+      "name": "Partei",
+      "bids": [
+        {
+          "offer": 20.0,
+          "msg": "974342111396790382",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "908e4239-69ec-43af-aaa2-053a183586a1",
+      "channelId": "973337576524087307",
+      "headId": "973337580571611166"
+    },
+    {
+      "special": [
+        "GC Snipe",
+        "TID",
+        "full OGE",
+        "Optifine Cape",
+        "Mileva is a female Slavic name"
+      ],
+      "min": 5.0,
+      "role": "973337610401488957",
+      "bin": 30.0,
+      "name": "Mileva",
+      "bids": [
+        {
+          "offer": 5.0,
+          "msg": "973966559229906965",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "450002362778648606"
+        },
+        {
+          "offer": 10.0,
+          "msg": "974008002040430592",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "552959270279184395"
+        },
+        {
+          "offer": 12.0,
+          "msg": "974325992699084891",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "969074742126583818"
+        },
+        {
+          "offer": 15.0,
+          "msg": "974337740315451393",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "552959270279184395"
+        },
+        {
+          "offer": 25.0,
+          "msg": "974341995436867584",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "709e40c5-93c4-4ca1-8876-6c3284779498",
+      "channelId": "973337609722007573",
+      "headId": "973337612322476152"
+    },
+    {
+      "special": [
+        "TID",
+        "full OGE",
+        "GC Snipe",
+        "Optifine Cape",
+        "10h Playtime on GommeHD",
+        "hint: Bahai is a religion."
+      ],
+      "min": 5.0,
+      "role": "973337808901115926",
+      "bin": 30.0,
+      "name": "Bahai",
+      "bids": [
+        {
+          "offer": 5.0,
+          "msg": "973966053627559946",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "450002362778648606"
+        },
+        {
+          "offer": 8.0,
+          "msg": "975794407292956722",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "411326885478400010"
+        },
+        {
+          "offer": 11.0,
+          "msg": "975795397152886834",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "865600937028223007"
+        },
+        {
+          "offer": 14.0,
+          "msg": "979902221233823844",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "928496511694823496"
+        },
+        {
+          "offer": 17.0,
+          "msg": "981509074640314431",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "317980784810131457"
+        },
+        {
+          "offer": 20.0,
+          "msg": "982934698881871902",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "317980784810131457"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "6a3dbd68-5c03-422c-a154-ffbf2ee03419",
+      "channelId": "973337808456515636",
+      "headId": "973337811237355610"
+    },
+    {
+      "special": [
+        "GC Snipe",
+        "TID",
+        "full OGE",
+        "Optifine Cape",
+        "10h Playtime on GommeHD",
+        "Dusche is the german word for \\shower\\"
+      ],
+      "min": 5.0,
+      "role": "973337862965719060",
+      "bin": 33.0,
+      "name": "Dusche",
+      "bids": [
+        {
+          "offer": 6.0,
+          "msg": "974277858585346069",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "529005700089774082"
+        },
+        {
+          "offer": 12.0,
+          "msg": "974342191927418920",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        },
+        {
+          "offer": 16.0,
+          "msg": "974714570998415421",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "941311759141203978"
+        },
+        {
+          "offer": 25.0,
+          "msg": "974765235980369951",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "fb0d7649-d6fa-40a3-8477-c80a60b4b2c9",
+      "channelId": "973337862206533663",
+      "headId": "973337864966406244"
+    },
+    {
+      "special": [
+        "GC",
+        "TID",
+        "full OGE",
+        "Creation Date",
+        "Optifine Cape (with FA)"
+      ],
+      "min": 10.0,
+      "role": "975015577590571039",
+      "bin": 19.0,
+      "name": "yuxxiie",
+      "bids": [
+        {
+          "offer": 10.0,
+          "msg": "982385358534742096",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "405772863728254976"
+        },
+        {
+          "offer": 11.0,
+          "msg": "983702136783253544",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "944349734619979807"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "fb654082-18e5-4c9d-aa23-a1a12fcd70d8",
+      "channelId": "975015576596525066",
+      "headId": "975015579931004989"
+    },
+    {
+      "special": [
+        "MFA",
+        "no known bans",
+        "6h Playtime on GommeHD",
+        "BAC Cosmetic (Dog snout)",
+        "4 Gomme Statsreset Tokens",
+        "263 NameMC Searches & 26 Views on NameMC"
+      ],
+      "min": 15.0,
+      "role": "979016487966769293",
+      "bin": 45.0,
+      "name": "unspoke",
+      "bids": [
+        {
+          "offer": 15.0,
+          "msg": "979020135799066664",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "914623711112470548"
+        },
+        {
+          "offer": 35.0,
+          "msg": "979020885883236352",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "6f5736f8-a572-49ab-9d78-fad38ea8e070",
+      "channelId": "979016487098548304",
+      "headId": "979016490927939625"
+    },
+    {
+      "special": [
+        "MFA",
+        "lost TID",
+        "lost OGE",
+        "Creation Date",
+        "Second Name",
+        "no known bans"
+      ],
+      "min": 10.0,
+      "role": "982019095425843200",
+      "bin": 27.0,
+      "name": "ns3",
+      "bids": [
+        {
+          "offer": 10.0,
+          "msg": "982019387441709127",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "405772863728254976"
+        },
+        {
+          "offer": 15.0,
+          "msg": "982024745904132147",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        },
+        {
+          "offer": 20.0,
+          "msg": "982082825891233802",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "786455653169758229"
+        },
+        {
+          "offer": 23.0,
+          "msg": "982289315969261619",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "287228240483975178"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "4d59cf88-900e-41c3-ae54-0fff4c6f7f39",
+      "channelId": "982019094360518696",
+      "headId": "982019098525458473"
+    },
+    {
+      "special": [
+        "MFA",
+        "lost TID",
+        "lost OGE",
+        "German word for Power / Force / Might",
+        "Optifine Cape",
+        "Hypixel level 41 and lots of Skyblock Stuff",
+        "140+ NameMC Searches",
+        "name from 2015"
+      ],
+      "min": 30.0,
+      "role": "982208003681959956",
+      "bin": 75.0,
+      "name": "Macht",
+      "bids": [
+        {
+          "offer": 35.0,
+          "msg": "982208102688497694",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        },
+        {
+          "offer": 40.0,
+          "msg": "982208840302989383",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "720993999942320219"
+        },
+        {
+          "offer": 50.0,
+          "msg": "982221596011946004",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        },
+        {
+          "offer": 55.0,
+          "msg": "982292526323097650",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "70ef6b22-0ec3-4c64-91dc-9643d83b1f76",
+      "channelId": "982208002813726761",
+      "headId": "982208007687516190"
+    },
+    {
+      "special": [
+        "MFA",
+        "lost tid & oge",
+        " no bans",
+        "Second Name",
+        "50+ NameMC Searches"
+      ],
+      "min": 15.0,
+      "role": "982577365941096488",
+      "bin": 25.0,
+      "name": "Infracting",
+      "bids": [
+        {
+          "offer": 15.0,
+          "msg": "982577850886529054",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "561385132783829004"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "ecdb0b57-22bc-44a2-947c-88d9dd88525b",
+      "channelId": "982577364888342549",
+      "headId": "982577371305619466"
+    },
+    {
+      "special": [
+        "MFA",
+        "Third Name",
+        "CL - CD and Ownerinformations",
+        "no bans",
+        "85+ NameMC Searches"
+      ],
+      "min": 15.0,
+      "role": "982695696316645416",
+      "bin": 28.0,
+      "name": "5W8",
+      "bids": [
+        {
+          "offer": 15.0,
+          "msg": "982771397103337513",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "561385132783829004"
+        },
+        {
+          "offer": 16.0,
+          "msg": "982796069878509588",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "511549072340025345"
+        },
+        {
+          "offer": 17.0,
+          "msg": "982890352182714418",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "552293818158940170"
+        },
+        {
+          "offer": 20.0,
+          "msg": "982893469280387132",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "941329484412502037"
+        },
+        {
+          "offer": 21.0,
+          "msg": "982987664154316880",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "561385132783829004"
+        },
+        {
+          "offer": 22.0,
+          "msg": "983036617235267605",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "941329484412502037"
+        },
+        {
+          "offer": 23.0,
+          "msg": "983155123280838746",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "561385132783829004"
+        },
+        {
+          "offer": 24.0,
+          "msg": "983765143177539584",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "257630018673311754"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "c0c3f971-8ba2-41d4-b205-e7c52952a128",
+      "channelId": "982695695473578054",
+      "headId": "982695700259295232"
+    },
+    {
+      "special": [
+        "MFA",
+        "no tid",
+        "no oge",
+        "alleinsein means in engl \"to be alone\"",
+        "BAC Shield",
+        "32h Playtime on GommeHD & 170k Coins",
+        "10 KD in Bedwars on GommeHD",
+        "3 nc"
+      ],
+      "min": 15.0,
+      "role": "983085614830338089",
+      "bin": 20.0,
+      "name": "alleinsein",
+      "bids": [
+        {
+          "offer": 15.0,
+          "msg": "983164402079514624",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "919256473060663356"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "a472b246-4959-4467-9d7b-a43914fb4ac6",
+      "channelId": "983085613966323712",
+      "headId": "983085620102582282"
+    },
+    {
+      "special": [
+        "GC Acc",
+        "TID",
+        "full OGE",
+        "155+ NameMC Searches"
+      ],
+      "min": 25.0,
+      "role": "983124416206626816",
+      "bin": 70.0,
+      "name": "pqb",
+      "bids": [
+        {
+          "offer": 29.0,
+          "msg": "983124572331196506",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        },
+        {
+          "offer": 45.0,
+          "msg": "983125286231093319",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "720993999942320219"
+        },
+        {
+          "offer": 50.0,
+          "msg": "983125496772579368",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        },
+        {
+          "offer": 55.0,
+          "msg": "983125674330042398",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "720993999942320219"
+        },
+        {
+          "offer": 63.0,
+          "msg": "983125764398522398",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "849266664909832242"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "367dd878-4074-4626-a572-313cba3398bc",
+      "channelId": "983124415040589905",
+      "headId": "983124420077949018"
+    },
+    {
+      "special": [
+        "MFA",
+        "no known bans",
+        "Third Name",
+        "15+ NameMC Searches"
+      ],
+      "min": 5.0,
+      "role": "983422825878675528",
+      "bin": 18.0,
+      "name": "appartements",
+      "bids": [
+        {
+          "offer": 5.0,
+          "msg": "983425758439555205",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "405772863728254976"
+        },
+        {
+          "offer": 6.0,
+          "msg": "983500442002685984",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "710115056209100893"
+        },
+        {
+          "offer": 9.0,
+          "msg": "983629300739768350",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "492305459047432193"
+        },
+        {
+          "offer": 11.0,
+          "msg": "983645841204051968",
+          "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkJpZA==",
+          "user": "944349734619979807"
+        }
+      ],
+      "CLASS": "ZGUucGF1bC50cmllYmVsLnN0YXRpY2FsdC5kYXRhLkF1Y3Rpb24=",
+      "uuid": "1dc0fe78-db45-4fcd-90d0-aa9f46795a0d",
+      "channelId": "983422825186590800",
+      "headId": "983422830211383306"
+    }
+  ],
+  "token": "OTQ1Njk4NjkwNzkyODIwODA2.YhT8ig.V-1cDDwQLemoD8kTQL0vqC-rn5Y"
+}
